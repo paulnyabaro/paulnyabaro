@@ -41,7 +41,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=paulnyabaro&show_icons=true&theme=chartreuse-dark"/>
 
 ## 2. Total Contributions and Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=paulnyabaro&theme=dark)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=paulnyabaro&theme=java-dark&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>
 ## 3. Most Used Languages
 ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=paulnyabaro&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ## 4. Contributors Badge
