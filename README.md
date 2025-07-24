@@ -63,5 +63,5 @@
 </a>
 <a href="https://img.shields.io/github/followers/paulnyabaro"><img src="https://img.shields.io/github/followers/paulnyabaro?label=Followers&style=social" alt="GitHub Badge"></a>
 
-
+## 7 Activity profile
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Paul's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=paulnyabaro&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
