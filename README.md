@@ -43,25 +43,22 @@
 </a>
 
 ## 2. Total Contributions and Streak
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=paulnyabaro&theme=java-dark&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>
-## 3. Most Used Languages
-
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Paul's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=paulnyabaro&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+
+## 3. Most Used Languages
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Paul's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=paulnyabaro&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
 
 ## 4. Contributors Badge
 ![Your Repository's Stats](https://contrib.rocks/image?repo=paulnyabaro/paulnyabaro)
 
-
 ## 5. Random Joke Generator
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-## 6 Views and Followers
-
+## 6. Views and Followers
 <a href="https://komarev.com/ghpvc/?username=paulnyabaro">
     <img src="https://komarev.com/ghpvc/?username=paulnyabaro">
 </a>
 <a href="https://img.shields.io/github/followers/paulnyabaro"><img src="https://img.shields.io/github/followers/paulnyabaro?label=Followers&style=social" alt="GitHub Badge"></a>
 
-## 7 Activity profile
+## 7. Activity profile
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Paul's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=paulnyabaro&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
