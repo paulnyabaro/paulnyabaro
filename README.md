@@ -21,8 +21,7 @@
 <!--[![Paul's GitHub Banner](./assets/banner.jpg)](https://paulnyabaro.com)-->
 
 ### Follow me on 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://x.com/paulnyabaro)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/paul-nyabaro-35433114a/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://x.com/iposiemo)
 
 
 ### My tech skills
@@ -39,26 +38,26 @@
 #Extras
 ## 1. GitHub Stats
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Paul's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=paulnyabaro&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Paul's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=iposiemo&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
 </a>
 
 ## 2. Total Contributions and Streak
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Paul's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=paulnyabaro&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Paul's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=iposiemo&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
 
 ## 3. Most Used Languages
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Paul's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=paulnyabaro&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Paul's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=iposiemo&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
 
 ## 4. Contributors Badge
-![Your Repository's Stats](https://contrib.rocks/image?repo=paulnyabaro/paulnyabaro)
+![Your Repository's Stats](https://contrib.rocks/image?repo=iposiemo/iposiemo)
 
 ## 5. Random Joke Generator
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ## 6. Views and Followers
-<a href="https://komarev.com/ghpvc/?username=paulnyabaro">
-    <img src="https://komarev.com/ghpvc/?username=paulnyabaro">
+<a href="https://komarev.com/ghpvc/?username=iposiemo">
+    <img src="https://komarev.com/ghpvc/?username=iposiemo">
 </a>
-<a href="https://img.shields.io/github/followers/paulnyabaro"><img src="https://img.shields.io/github/followers/paulnyabaro?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://img.shields.io/github/followers/iposiemo"><img src="https://img.shields.io/github/followers/iposiemo?label=Followers&style=social" alt="GitHub Badge"></a>
 
 ## 7. Activity profile
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Paul's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=paulnyabaro&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="IPOsiemo's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=iposiemo&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
